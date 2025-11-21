@@ -1,8 +1,0 @@
-Integrantes:
-- NOME COMPLETO 1 - RMXXXXX
-- NOME COMPLETO 2 - RMXXXXX
-- NOME COMPLETO 3 - RMXXXXX
-
-Resumo (2-3 linhas):
-API RESTful para plataforma de Upskilling/Reskilling voltada ao futuro do trabalho, com CRUDs de usuários e trilhas.
-Utiliza arquitetura em camadas, banco H2, migrações Flyway, seeds, validações e tratamento centralizado de exceções.

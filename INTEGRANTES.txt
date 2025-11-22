@@ -1,7 +1,6 @@
 Integrantes:
-- NOME COMPLETO 1 - RMXXXXX
-- NOME COMPLETO 2 - RMXXXXX
-- NOME COMPLETO 3 - RMXXXXX
+Lucas Alves de Souza RM553956
+Kaio Vinicius Meireles Alves RM553282
 
 Resumo (2-3 linhas):
 API RESTful para plataforma de Upskilling/Reskilling voltada ao futuro do trabalho, com CRUDs de usuários e trilhas.
